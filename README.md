@@ -28,3 +28,4 @@ This package is trying to design a LQG controller for the dual pendulum cart, mo
 ![Screenshot from 2023-03-02 23-18-23](https://user-images.githubusercontent.com/55338365/222630553-df470a7e-6b62-4eb4-8d3d-7fe76d611549.png)
 
 
+![Screenshot from 2023-03-02 23-18-41](https://user-images.githubusercontent.com/55338365/222630644-53042958-288f-422c-b1a8-0dd12d877b0a.png)
