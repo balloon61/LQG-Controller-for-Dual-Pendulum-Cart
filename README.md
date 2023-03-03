@@ -3,7 +3,7 @@
 ## Description
 
 This package is trying to design a LQG controller for the dual pendulum cart, more further information is provided in the pdf file.
-### please look at the pdf for more detail
+### Please look at the pdf for more detail
 ![Screenshot from 2023-03-02 23-16-21](https://user-images.githubusercontent.com/55338365/222630521-b5a0bb9c-4768-420b-97e9-47a287c6bd52.png)
 
 
